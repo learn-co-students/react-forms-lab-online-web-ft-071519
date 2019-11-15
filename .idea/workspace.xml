@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccd7c6c0-3d3c-4d13-8a24-4cae2fd37c00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-forms-lab-online-web-ft-071519.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-forms-lab-online-web-ft-071519.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/copy-hooks" beforeDir="false" afterPath="$PROJECT_DIR$/bin/copy-hooks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/debug-ide" beforeDir="false" afterPath="$PROJECT_DIR$/bin/debug-ide" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hooks/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TwitterMessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TwitterMessage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573851159134</updated>
-      <workItem from="1573851165177" duration="2121000" />
+      <workItem from="1573851165177" duration="3604000" />
     </task>
     <servers />
   </component>
